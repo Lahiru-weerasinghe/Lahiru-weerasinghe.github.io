@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Lahiru/static/css/main.d4f73d64.css",
+    "main.js": "/Lahiru/static/js/main.8f8f4064.js",
+    "static/js/787.69ce51e1.chunk.js": "/Lahiru/static/js/787.69ce51e1.chunk.js",
+    "static/media/photo_no_back.jpg": "/Lahiru/static/media/photo_no_back.83ce43ea4a5862ce5834.jpg",
+    "static/media/photo_casual.jpg": "/Lahiru/static/media/photo_casual.27068708a8aba8f42fbe.jpg",
+    "static/media/photo.jpeg": "/Lahiru/static/media/photo.94aece117ec868cee6d1.jpeg",
+    "static/media/aiesec_logo.jpeg": "/Lahiru/static/media/aiesec_logo.a36376ee78adc4fe07de.jpeg",
+    "static/media/images.jpeg": "/Lahiru/static/media/images.a25f5e780ec65c8b8e38.jpeg",
+    "static/media/kaplan_logo.webp": "/Lahiru/static/media/kaplan_logo.8966d8613377d83e15f1.webp",
+    "index.html": "/Lahiru/index.html",
+    "main.d4f73d64.css.map": "/Lahiru/static/css/main.d4f73d64.css.map",
+    "main.8f8f4064.js.map": "/Lahiru/static/js/main.8f8f4064.js.map",
+    "787.69ce51e1.chunk.js.map": "/Lahiru/static/js/787.69ce51e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f73d64.css",
+    "static/js/main.8f8f4064.js"
+  ]
+}
