@@ -21,16 +21,16 @@
     "typescript": "^4.6.4",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "postbuild": "copyfiles -f build/index.html build"
-
-  },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "postbuild": "copyfiles -f build/index.html build",
+  "deploy": "gh-pages -d build"
+}
+,
   "eslintConfig": {
     "extends": [
       "react-app",
