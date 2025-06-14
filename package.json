@@ -28,7 +28,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "postbuild": "copyfiles -f build/index.html build/404.html"
+    "postbuild": "copyfiles -f build/index.html build"
+
   },
   "eslintConfig": {
     "extends": [
